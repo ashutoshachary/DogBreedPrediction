@@ -126,6 +126,23 @@ whippet
 wire-haired_fox_terrier
 yorkshire_terrier
 
+File descriptions
+train.zip - the training set, you are provided the breed for these dogs
+test.zip - the test set, you must predict the probability of each breed for each image
+sample_submission.csv - a sample submission file in the correct format
+labels.csv - the breeds for the images in the train set
+Files
+20581 files
+
+Size
+750.43 MB
+
+Type
+jpg, csv
+
+License
+
+
 
 
 - [https://www.kaggle.com/competitions/dog-breed-identification/data]
